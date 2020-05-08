@@ -1,0 +1,59 @@
+{
+	"ManifestVersion": "manifestGen 1.0.1",
+	"ManifestDocumentation": "https://mep.avanade.com/docs/self-service/ssp_public/guidance",
+	"ProjectName": "ASD Courseware Case Study - Battleship",
+	"ProjectDescription": "Avanade Scrum Developer Courseware",
+	"RepositoryName": "Courseware Case Studies",
+	"Cost": "0.0",
+	"RunTimeCost": "0.0",
+	"README": "README.md",
+	"Icon": "",
+	"ExportCompliance": false,
+	"ContributionAllowed": false,
+	"Maintainers": [],
+	"tags": [
+		"ASD",
+		"Scrum"
+	],
+	"preconditions": [],
+	"inclusions": {
+		"Continuous Integration": {
+			"Automated Build": false,
+			"Unit Testing": false
+		},
+		"Continuous Deployment": {
+			"Automated Deployment": false
+		},
+		"Project Management": {
+			"Work Items": true,
+			"Queries": false,
+			"Dashboard": false
+		}
+	},
+	"ThirdPartyTools": [],
+	"parameters": [],
+	"components": [
+		{
+			"name": "",
+			"type": "",
+			"workdir": "",
+			"extensions": [],
+			"endpoints": [],
+			"pipelines": {
+				"build": [],
+				"release": []
+			},
+			"workItems": [
+                {
+                    "name": "Product Backlog Item",
+                    "template": "ssp/WorkItems/Product Backlog Item.json"
+                },
+                {
+                    "name": "Bug",
+                    "template": "ssp/WorkItems/Bug.json"
+                }
+
+            ]
+		}
+	]
+}

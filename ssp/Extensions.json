@@ -1,0 +1,20 @@
+{
+  "Extensions": [
+    {
+      "extensionName": "Estimate",
+      "link": "<a href='https://marketplace.visualstudio.com/items?itemName=ms-devlabs.estimate' target='_blank'><b>Estimate</b></a>",
+      "publisherId": "ms-devlabs",
+      "extensionId": "estimate",
+      "publisherName": "Microsoft DevLabs",
+      "License": "<a href='https://marketplace.visualstudio.com/items?itemName=ms-devlabs.estimate' target='_blank'>License Terms</a>"
+    },
+    {
+      "extensionName": "Retrospectives",
+      "link": "<a href='https://marketplace.visualstudio.com/items?itemName=ms-devlabs.team-retrospectives' target='_blank'><b>Retrospectives</b></a>",
+      "publisherId": "ms-devlabs",
+      "extensionId": "team-retrospectives",
+      "publisherName": "Microsoft DevLabs",
+      "License": "<a href='https://marketplace.visualstudio.com/items?itemName=ms-devlabs.team-retrospectives' target='_blank'>License Terms</a>"
+    }
+  ]
+}

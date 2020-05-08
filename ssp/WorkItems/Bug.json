@@ -1,0 +1,69 @@
+{
+  "count": 2,
+  "value": [
+    {
+      "id": 227,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "ASD Battleship",
+        "System.TeamProject": "ASD Battleship",
+        "System.IterationPath": "ASD Battleship",
+        "System.WorkItemType": "Bug",
+        "System.State": "New",
+        "System.Reason": "New defect reported",
+        "System.CreatedDate": "2020-04-23T02:35:39.563Z",
+        "System.CreatedBy": "Charles Charbeneau <cacharbe@hotmail.com>",
+        "System.ChangedDate": "2020-04-24T18:27:19.597Z",
+        "System.ChangedBy": "Keith Lemon <k.lemon@hotmail.com>",
+        "System.Title": "You can shoot at positions outside the playing field",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": null,
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": null,
+      "url": "https://dev.azure.com/cacharbe/_apis/wit/workItems/227"
+    },
+    {
+      "id": 223,
+      "rev": 2,
+      "fields": {
+        "System.AreaPath": "ASD Battleship",
+        "System.TeamProject": "ASD Battleship",
+        "System.IterationPath": "ASD Battleship",
+        "System.WorkItemType": "Bug",
+        "System.State": "New",
+        "System.Reason": "New defect reported",
+        "System.CreatedDate": "2020-04-23T02:35:39.563Z",
+        "System.CreatedBy": "Charles Charbeneau <cacharbe@hotmail.com>",
+        "System.ChangedDate": "2020-04-24T18:27:19.597Z",
+        "System.ChangedBy": "Keith Lemon <k.lemon@hotmail.com>",
+        "System.Title": "Game does not end",
+        "Microsoft.VSTS.Scheduling.Effort": 0.0,
+        "System.Description": null,
+        "System.AssignedTo": null,
+        "Microsoft.VSTS.Scheduling.RemainingWork": 0.0,
+        "Microsoft.VSTS.Common.Priority": 2.0,
+        "System.BoardLane": null,
+        "System.Tags": null,
+        "Microsoft.VSTS.TCM.Steps": null,
+        "Microsoft.VSTS.TCM.Parameters": null,
+        "Microsoft.VSTS.TCM.LocalDataSource": null,
+        "Microsoft.VSTS.TCM.AutomationStatus": null,
+        "System.History": null
+      },
+      "relations": null,
+      "url": "https://dev.azure.com/cacharbe/_apis/wit/workItems/223"
+    }
+  ],
+  "HttpStatusCode": 0,
+  "Message": null
+}
