@@ -1,0 +1,9 @@
+{
+  "parameters": {
+    "gitSource": {
+      "url": "https://dev.azure.com/cacharbe/ASD Battleship/_git/ASD Battleship"
+    },
+    "serviceEndpointId": "$ASD Battleship-code$",
+    "deleteServiceEndpointAfterImportIsDone": true
+  }
+}
